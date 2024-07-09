@@ -3,10 +3,11 @@ PyAudio
 PyPDF2
 dotenv
 streamlit
-openai
+openai==0.28.0
 faiss-cpu
 altair
 pillow
 SpeechRecognition
 requests
 langchain-community
+tiktoken
