@@ -1,10 +1,12 @@
 langchain
-langchain_community
 PyAudio
 PyPDF2
-python-dotenv
+dotenv
 streamlit
 openai
 faiss-cpu
 altair
-tiktoken
+pillow
+SpeechRecognition
+requests
+
