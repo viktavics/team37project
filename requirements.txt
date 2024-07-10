@@ -1,7 +1,7 @@
 langchain
 PyAudio
 PyPDF2
-dotenv
+python-dotenv
 streamlit
 openai==0.28.0
 faiss-cpu
